@@ -1,0 +1,5 @@
+shift+right-click on folder
+git bash here //opens git terminal
+git init      //initialize local directory as a Git repo
+git add .     //stages files for commit
+git commit -m "message" //commits tracked changes and prepares them for push
